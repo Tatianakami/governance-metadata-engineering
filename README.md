@@ -1,7 +1,7 @@
 %%writefile README.md
 # Governance & Metadata Engineering Lab 📊
 
-![Data Engineering Banner](https://images.unsplash.com/photo-1551288049-bbbda546697a?auto=format&fit=crop&q=80&w=1000)
+![Data Engineering Banner](assets/banner.jpg)
 
 Este projeto explora a manipulação e governança de metadados em diferentes formatos de dados (estruturados e não estruturados). Desenvolvido como parte do laboratório de Ciência da Computação, o objetivo é garantir a integridade, rastreabilidade e autonomia no uso de ativos de dados através de documentação técnica e metadados embutidos.
 
