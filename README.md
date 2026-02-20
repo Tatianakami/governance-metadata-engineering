@@ -1,8 +1,7 @@
 %%writefile README.md
 # Governance & Metadata Engineering Lab 📊
 
-![Data Governance](https://raw.githubusercontent.com/Tatianakami/governance-metadata-engineering/main/banner.png)
-*(Dica: Se você não tiver uma imagem própria, este link acima é apenas um placeholder. Recomendo usar esta imagem estável abaixo:)*
+
 
 ![Data Engineering Banner](https://images.unsplash.com/photo-1551288049-bbbda546697a?auto=format&fit=crop&q=80&w=1000)
 
